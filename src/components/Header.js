@@ -8,7 +8,7 @@ function Header() {
                         <a class="block px-8 py-4 hover:bg-blue-400" href="#me">Me</a>
                     </li>
                     <li> 
-                        <a class="block px-8 py-4 hover:bg-blue-400" href="#about">About</a>
+                        <a class="block px-8 py-4 hover:bg-blue-400" href="#about" >About</a>
                     </li>
                     <li> 
                         <a class="block px-8 py-4 hover:bg-blue-400" href="#techSupport">Tech Support</a>
