@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/Header';
+import Me from './components/Me';
+import About from './components/About';
+import TechSupport from './components/TechSupport';
+//import Header from './components/Header';
+//import Header from './components/Header';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+        <Header/>
+        <Me/>
+        <About/>
+        <TechSupport/>
+        <footer class="text-white bg-gray-800 p-10 italic text-center">
+            © 2021 Lucas Boyer. All rights reserved.
+        </footer>
     </div>
   );
 }
