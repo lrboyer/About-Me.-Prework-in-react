@@ -11,7 +11,7 @@ function Me() {
         <h1 class="font-bold text-7xl leeding-none">Lucas Boyer</h1>
         <p class="font-mono text-lg p-4">Sophomore | CS Major</p>
         <a
-          href="https://www.linkedin.com/in/lucas-boyer-342b40205"
+          href="https://www.linkedin.com/in/lucasrboyer/"
           rel="noopener noreferrer"
           target="_blank"
           class="mt-10 bg-white rounded-lg px-8 py-4 text-black inline-block"
